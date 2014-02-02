@@ -1,4 +1,9 @@
-Pokemon-Showdown
-================
+macrarazy's Pokemon Showdown! Server Code
+=========================================
 
-Other code for Pokemon Showdown! Server.
+An alternative GitHub for PS! Server codes.
+
+Note to Reader
+--------------
+
+This repository is not, in any way, an official repository for a Pokemon Showdown! Server code.
